@@ -22,5 +22,9 @@ class Help {
 		System.out.println("\nThe JSONValidateIndex command validates any inputed JSON file.");
 		System.out.println("To run JSONValidateIndex command use a URL of a JSON file like so...");
 		System.out.println("java sak -JSONValidateIndex https://thunderbird-index.azurewebsites.net/w0a6zk195f.json");
+
+		System.out.println("\nThe JSONValidateIndexThreaded command validates any inputed JSON file.");
+		System.out.println("To run JSONValidateIndexThreaded command use a URL of a JSON file like so...");
+		System.out.println("java sak -JSONValidateIndexThreaded https://thunderbird-index.azurewebsites.net/w0a6zk195e.json");
 	}
 }
