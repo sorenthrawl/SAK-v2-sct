@@ -2,5 +2,6 @@
     "firstName": "Indiana",
     "lastName": "jones",
     "preferredName": "Indy",
-    "email": "indy.jones@marshallcollege.edu"
+    "email": "indy.jones@marshallcollege.edu",
+    "seatLocation": ""
 }

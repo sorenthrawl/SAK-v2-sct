@@ -2,5 +2,6 @@
     "firstName": "Peter",
     "lastName": "quill",
     "preferredName": "Starlord",
-    "email": "starlord@gmail.com"
+    "email": "starlord@gmail.com",
+    "seatLocation": ""
 }
